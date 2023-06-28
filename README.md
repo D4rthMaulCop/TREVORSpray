@@ -9,7 +9,7 @@ By [@thetechr0mancer](https://twitter.com/thetechr0mancer)
 ## Installation:
 ~~~bash
 pip install git+https://github.com/blacklanternsecurity/trevorproxy
-pip install git+https://github.com/blacklanternsecurity/trevorspray
+pip install git+https://github.com/D4rthMaulCop/TREVORspray
 ~~~
 
 See the accompanying [**Blog Post**](blogpost.md) for a fun rant and some cool demos!
