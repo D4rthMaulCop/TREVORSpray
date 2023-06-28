@@ -4,8 +4,8 @@ version = "2.0.6"
 description = "A modular password sprayer with threading, SSH proxying, loot modules, and more"
 authors = ["TheTechromancer"]
 license = "GPL-3.0"
-repository = "https://github.com/blacklanternsecurity/TREVORspray"
-homepage = "https://github.com/blacklanternsecurity/TREVORspray"
+repository = "https://github.com/D4rthMaulCop/TREVORspray"
+homepage = "https://github.com/D4rthMaulCop/TREVORspray"
 
 [tool.poetry.dependencies]
 python = "^3.6"
